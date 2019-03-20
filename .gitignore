@@ -1,0 +1,7 @@
+.idea/
+
+### WebStorm IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
