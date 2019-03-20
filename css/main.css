@@ -173,7 +173,8 @@ ul, li {
 }
 
 .form {
-text-align: center;
+    text-align: center;
+    margin-bottom: 40px;
 }
 
 .form__input {
